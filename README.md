@@ -16,9 +16,10 @@ impl SoftwareEngineer {
             name: String::from("Vignesh K"),
             role: String::from("Full Stack Developer"),
             languages_spoken: vec![
-                String::from("en_US"),
+               String::from("en_IN"),
+                String::from("ml_IN"),
                 String::from("hi_IN"),
-                String::from("ml_IN")
+                String::from("ta_IN")
             ],
         }
     }
