@@ -77,5 +77,5 @@ fn main() {
 
 ## 📫 How to reach me:
 
-- LinkedIn: https://www.linkedin.com/in/vignesh-k07/
+- LinkedIn: https://www.linkedin.com/in/vigneshk-se/
 - Email: kvignesh110@gmail.com
