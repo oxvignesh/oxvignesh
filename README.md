@@ -13,7 +13,7 @@ struct SoftwareEngineer {
 impl SoftwareEngineer {
     fn new() -> Self {
         SoftwareEngineer {
-            name: String::from("Vignesh K"),
+            name: String::from("Vignesh Krishna"),
             role: String::from("Full Stack Developer"),
             languages_spoken: vec![
                String::from("en_IN"),
