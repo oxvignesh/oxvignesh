@@ -25,7 +25,7 @@ impl SoftwareEngineer {
     }
 
     fn say_hi(&self) {
-        println!("Thanks for dropping by! I'm a Full Stack Developer with expertise in Web3 and blockchain technologies.");
+        println!("Thanks for dropping by! I'm a Full Stack Developer with expertise in Web3 and AI technologies.");
     }
 }
 
@@ -73,7 +73,7 @@ fn main() {
 ## 👥 Community Involvement
 
 - Co-organizer at Polygon Guild Kochi (04/2022 - Present)
-- Actively contributing to Web3 and blockchain community education
+- Actively contributing to Web3 and AI community education
 
 ## 📫 How to reach me:
 
